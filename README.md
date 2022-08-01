@@ -1,6 +1,6 @@
 ## Meu nome é Rafael Nikolas, atualmente cursando Análise e Desenvolvimento de sistemas e trabalhando como Analista Computacional na Matrix do Brasil.
 <div align="center">
-![RafaelNikolasPuggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNikolasPuggi&theme=vision-friendly-dark_icons=true)
+![RafaelNikolasPuggi GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNikolasPuggi&theme=vision-friendly-dark_icons=true)
   <a href="https://github.com/RafaelNikolasPuggi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelNikolasPuggi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnikolaspuggi&layout=compact&langs_count=7&theme=dracula"/>
