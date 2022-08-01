@@ -10,7 +10,6 @@
   <img align="center" alt="Rafael_Nikolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael_Nikolas-Csharp" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   
-  
   ##
  
 <div> 
