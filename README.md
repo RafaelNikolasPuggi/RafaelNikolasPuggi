@@ -1,5 +1,5 @@
-## Oi! Sou o Rafael Nikolas! 
-# Atualmente cursando Análise e Desenvolvimento de sistemas e trabalhando como Analista Computacional na Matrix do Brasil.
+# Oi! Sou o Rafael Nikolas! 
+### Atualmente cursando Análise e Desenvolvimento de sistemas e trabalhando como Analista Computacional na Matrix do Brasil.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnikolaspuggi&theme=vision-friendly-dark&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnikolaspuggi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
