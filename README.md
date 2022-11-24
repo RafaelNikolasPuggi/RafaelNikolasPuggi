@@ -1,10 +1,10 @@
 # Oi! Sou o Rafael Nikolas! 
 ### 
-📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 3 semestre.
-📩 - Contato - rafaelnikolaspuggi@gmail.com
-🔗 - Linkedin - https://www.linkedin.com/in/rafael-nikolas-puggione-rodrigues-querino-88b62a129/
-👨‍💻 - Linguagens/Framework - HTML/CSS/Javascript/Python e Mysql.
-🚩 - Belo Horizonte/MG
+📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 3 semestre. <br>
+📩 - Contato - rafaelnikolaspuggi@gmail.com <br>
+🔗 - Linkedin - https://www.linkedin.com/in/rafael-nikolas-puggione-rodrigues-querino-88b62a129/ <br>
+👨‍💻 - Linguagens - HTML/CSS/Javascript/Python e Mysql. <br>
+🚩 - Belo Horizonte/MG <br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnikolaspuggi&theme=vision-friendly-dark&show_icons=true)"/>
