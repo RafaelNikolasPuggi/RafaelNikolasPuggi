@@ -1,4 +1,5 @@
 # Oi! Sou o Rafael Nikolas! 
+
 ### 
 📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 3 semestre. <br>
 📩 - Contato - rafaelnikolaspuggi@gmail.com <br>
@@ -6,6 +7,9 @@
 👨‍💻 - Linguagens - HTML/CSS/Javascript/Python e Mysql. <br>
 🚩 - Belo Horizonte/MG <br>
 
+
+##
+<a href="https://github.com/RafaelNikolasPuggi">
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnikolaspuggi&theme=vision-friendly-dark&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnikolaspuggi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
