@@ -1,5 +1,11 @@
 # Oi! Sou o Rafael Nikolas! 
-### Atualmente cursando Análise e Desenvolvimento de sistemas focado em ser Desenvolvedor Full Stack.
+### 
+📘 - Estudando - Analise e desenvolvimento de sistemas (UNOPAR) 3 semestre.
+📩 - Contato - rafaelnikolaspuggi@gmail.com
+🔗 - Linkedin - https://www.linkedin.com/in/rafael-nikolas-puggione-rodrigues-querino-88b62a129/
+👨‍💻 - Linguagens/Framework - HTML/CSS/Javascript/Python e Mysql.
+🚩 - Belo Horizonte/MG
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnikolaspuggi&theme=vision-friendly-dark&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnikolaspuggi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
