@@ -3,7 +3,6 @@
 
 ### 
 🚩Sou de Belo Horizonte/MG <br>
-👨‍💻Trabalho como Analista de Implantação na Matrix do Brasil. <br>
 📘Tecnólogo em Análise e Desenvolvimento de Sistemas - Pitágoras  UNOPAR<br>
 📩E-mail rafaelnikolaspuggi@gmail.com <br>
 🔗Linkedin https://www.linkedin.com/in/rafael-nikolas-puggione/ <br>
